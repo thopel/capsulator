@@ -1,8 +1,8 @@
 # ☕ Capsulator
 
-**Capsulator** est un calculateur simple et rapide qui vous aide à estimer le **coût par capsule** lorsque vous utilisez du café moulu et des opercules rechargeables.
+**Capsulator** est un calculateur simple et rapide qui vous aide à estimer le **coût par capsule** lorsque vous utilisez du café moulu et des capsules rechargeables.
 
-Il est conçu pour les utilisateurs de **CAPS ME**, une marque française qui propose des opercules réutilisables compatibles **Nespresso** et **Dolce Gusto**.
+Il est conçu pour les utilisateurs de **CAPS ME**, une marque française qui propose des capsules réutilisables compatibles **Nespresso** et **Dolce Gusto**.
 
 > 🔗 Découvrez CAPS ME : [https://www.capsme.fr/](https://www.capsme.fr/)
 
@@ -10,7 +10,7 @@ Il est conçu pour les utilisateurs de **CAPS ME**, une marque française qui pr
 
 ## ✨ Pourquoi ce projet ?
 
-CAPS ME propose une alternative écologique et économique aux capsules jetables. Grâce à leurs opercules rechargeables, on peut utiliser **son propre café moulu** tout en gardant la praticité d'une machine à capsule.
+CAPS ME propose une alternative écologique et économique aux capsules jetables. Grâce à leurs capsules rechargeables, on peut utiliser **son propre café moulu** tout en gardant la praticité d'une machine à capsule.
 
 Je consomme moi-même du café quotidiennement au travail avec ce système, et plusieurs collègues aussi. Très vite, une **petite course à l’optimisation** s’est installée :
 
