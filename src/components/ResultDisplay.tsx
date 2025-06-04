@@ -1,8 +1,12 @@
-import React from 'react';
-import { Coffee } from 'lucide-react';
+import React from "react";
+import { Coffee } from "lucide-react";
 
 interface ResultDisplayProps {
   coffeeCost: number | null;
+  detailedCosts: {
+    coffeeCost: number;
+    capsuleCost: number;
+  } | null;
 }
 
 const ResultDisplay: React.FC<ResultDisplayProps> = ({ coffeeCost }) => {
@@ -15,7 +19,7 @@ const ResultDisplay: React.FC<ResultDisplayProps> = ({ coffeeCost }) => {
       <div className="text-center py-3">
         <p className="text-gray-700 dark:text-gray-300 mb-2">Votre café vous coûte :</p>
         <p className="text-3xl font-bold text-amber-600 dark:text-amber-400 transition-all duration-300 mb-4">
-          {coffeeCost !== null ? `${coffeeCost.toFixed(2)} €` : '-- €'}
+          {coffeeCost !== null ? `${coffeeCost.toFixed(2)} €` : "-- €"}
         </p>
       </div>
     </div>
