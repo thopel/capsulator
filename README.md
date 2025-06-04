@@ -1,6 +1,6 @@
 # ☕ Capsulator
 
-> 🔗 Disponible ici: [https://capsulator.thomaspelfrene.com]**(https://capsulator.thomaspelfrene.com)**
+> 🔗 Disponible ici: [https://capsulator.thomaspelfrene.com](https://capsulator.thomaspelfrene.com)
 
 **Capsulator** est un calculateur simple et rapide qui vous aide à estimer le **coût par capsule** lorsque vous utilisez du café moulu et des capsules rechargeables.
 
