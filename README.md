@@ -1,10 +1,12 @@
 # ☕ Capsulator
 
+> 🔗 Disponible ici: [https://capsulator.thomaspelfrene.com]**(https://capsulator.thomaspelfrene.com)**
+
 **Capsulator** est un calculateur simple et rapide qui vous aide à estimer le **coût par capsule** lorsque vous utilisez du café moulu et des capsules rechargeables.
 
 Il est conçu pour les utilisateurs de **CAPS ME**, une marque française qui propose des capsules réutilisables compatibles **Nespresso** et **Dolce Gusto**.
 
-> 🔗 Découvrez CAPS ME : [https://www.capsme.fr/](https://www.capsme.fr/)
+> 🔗 Découvrez CAPS ME : [https://www.capsme.fr](https://www.capsme.fr)
 
 ---
 
