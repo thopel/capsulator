@@ -38,7 +38,7 @@ const CoffeeCalculator: React.FC = () => {
     const price = parseFloat(inputs.coffeePrice);
     if (isNaN(qty) || qty <= 0 || isNaN(price) || price < 0) return null;
 
-    const coffeePerCapsule = capsuleType === 0 ? 200 / 28 : 200 / 42;
+    const coffeePerCapsule = capsuleType === 0 ? 200 / 30 : 200 / 40;
     return (price / qty) * coffeePerCapsule;
   };
 
@@ -130,7 +130,7 @@ const CoffeeCalculator: React.FC = () => {
       </div>
 
       <div className="mt-6 text-center text-xs text-gray-500 dark:text-gray-400">
-        <p>Ratio utilisé : 200g de café = {capsuleType === 0 ? "28" : "42"} capsules</p>
+        <p>Ratio utilisé : 200g de café = {capsuleType === 0 ? "30" : "40"} capsules</p>
       </div>
     </div>
   );
