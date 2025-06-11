@@ -25,7 +25,7 @@ function App() {
 
       <footer className="w-full py-4 text-center text-gray-600 dark:text-gray-400 text-sm">
         <p>
-          Capsulator •{" créé par "}
+          Capsulator •{" Créé par "}
           <a
             href="https://thomaspelfrene.com"
             target="_blank"
@@ -33,6 +33,10 @@ function App() {
             className="hover:text-amber-600 dark:hover:text-amber-400 transition-colors"
           >
             Thomas Pelfrene
+          </a>
+          {" • Adapté pour "}
+          <a href="https://capsme.fr" target="_blank" rel="noopener noreferrer" className="hover:text-amber-600 dark:hover:text-amber-400 transition-colors">
+            Caps Me
           </a>
         </p>
       </footer>

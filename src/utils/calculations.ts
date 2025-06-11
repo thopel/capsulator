@@ -26,9 +26,9 @@ export const calculateDetailedCosts = (inputs: CoffeeInputs, capsuleType: 0 | 1)
   }
 
   // Ratio en fonction du type de capsule
-  // 0 = Dolce Gusto → 30 capsules avec 200g
+  // 0 = Dolce Gusto → 20 capsules avec 200g
   // 1 = Nespresso → 40 capsules avec 200g
-  const coffeePerCapsule = capsuleType === 0 ? 200 / 30 : 200 / 40;
+  const coffeePerCapsule = capsuleType === 0 ? 200 / 20 : 200 / 40;
 
   // Coût du café par capsule
   const coffeeUnitCost = (coffeePrc / coffeeQty) * coffeePerCapsule;

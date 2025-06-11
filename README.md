@@ -37,7 +37,7 @@ Vous pouvez également basculer entre les deux types de capsules :
 Le calcul se base sur un **ratio moyen de café par capsule**, fourni **directement par le support client de CAPS ME** :
 
 - **Nespresso** : 200g de café = 40 capsules
-- **Dolce Gusto** : 200g de café = 30 capsules
+- **Dolce Gusto** : 200g de café = 20 capsules
 
 > 🧠 Ces données ont été transmises par le **support client CAPS ME**, que nous remercions pour leur **réactivité** et leur **gentillesse** 🙏
 
